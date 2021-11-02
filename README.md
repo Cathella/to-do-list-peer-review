@@ -2,7 +2,7 @@
 
 # To-do-list
 
-> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. I will be building a simple todo webapp using ES6 and Webpack!
+> Reusing the TO DO List repository code to request a code review from our coding partners.
 
 ![screenshot](./appsh.png)
 
